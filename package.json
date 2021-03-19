@@ -2,7 +2,7 @@
   "name": "wall-gallery",
   "version": "0.1.0",
   "private": true,
-	"homepage": "http://batpsyche.github.io/wg-react-deploy",
+	"homepage": "https://batpsyche.github.io/wg-react-deploy",
   "dependencies": {
     "@babel/core": "7.12.3",
     "@pmmmwh/react-refresh-webpack-plugin": "0.4.3",
