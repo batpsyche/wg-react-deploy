@@ -9,7 +9,7 @@ class App extends Component {
 		images : null,
 	}
 	async componentDidMount(){
-		const apiUrl = "http://www.mocky.io/v2/5ecb5c353000008f00ddd5a0";
+		const apiUrl = "https://www.mocky.io/v2/5ecb5c353000008f00ddd5a0";
 		const response = await fetch(apiUrl,{
 			crossDomain:true,
 			mode:"cors",
